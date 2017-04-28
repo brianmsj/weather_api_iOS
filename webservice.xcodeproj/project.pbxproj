@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					B6E504DB1EB3AA7700BE4846 = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = 44T54CN4L4;
 						ProvisioningStyle = Automatic;
 					};
 					B6E504EF1EB3AA7700BE4846 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 44T54CN4L4;
 				INFOPLIST_FILE = webservice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thinkful.webservice;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 44T54CN4L4;
 				INFOPLIST_FILE = webservice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thinkful.webservice;
